@@ -1,0 +1,22 @@
+.img-circle {
+	width: 200px;
+	height: 200px;
+	border: 5px solid #333;
+	border-radius: 50%;
+	background-color: red;
+}
+
+.about hr {
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+
+.text hr {
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+.porto{
+	background-color: #eee;
+}
